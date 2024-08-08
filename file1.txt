@@ -1,2 +1,7 @@
 Hello Everyone
+<<<<<<< HEAD
 I dont know whats going in
+=======
+Welcome iConnect
+change file
+>>>>>>> main
